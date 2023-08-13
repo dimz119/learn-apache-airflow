@@ -1,6 +1,9 @@
 # learn-apache-airflow
 Apache Airflow 강좌 자료 입니다.
 
+# Notice
+airflow.cfg 파일에 <CHANGE TO YOUR LOCATION> 부분을 꼭 바꾸세요
+
 # Installation with standalone
 ```
 # airflow home directory
